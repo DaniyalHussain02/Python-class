@@ -1,0 +1,12 @@
+from colorama import *
+print(Fore.LIGHTGREEN_EX,Back.BLUE)
+print("                          ********                                     ")
+print("                       **         **                                      ")
+print("                     **             **                                    ")
+print("                    **                **                                   ")
+print("                    **                **                                     ")
+print("                    **                **                                     ")
+print("                     **               **                                     ")
+print("                      **             **                                     ")
+print("                       **           **                                     ")
+print("                          *********                                     ")

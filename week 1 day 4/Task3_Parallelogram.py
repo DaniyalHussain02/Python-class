@@ -1,0 +1,13 @@
+from colorama import *
+print(Fore.WHITE,Back.RED)
+print("                             **********************************                                                            ")
+print("                            *                                  *                                            ")
+print("                           *                                  *                                            ")
+print("                          *                                  *                                             ")
+print("                         *                                  *                                              ")
+print("                        *                                  *                                               ")
+print("                       *                                  *                                                ")
+print("                      *                                  *                                                 ")
+print("                     *                                  *                                                  ")
+print("                    *                                  *                                                  ")
+print("                   ************************************                                                                                   ")
