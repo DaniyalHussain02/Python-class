@@ -2,8 +2,13 @@ import cmath
 def finding_height():
     print("Since we know that tan = perpendicular/base so")
     degrees=30
-    into_radian=cmath.radians(degrees)
-    tan_value=cmath.tan(into_radian)
+    radians = degrees * (cmath.pi / 180)
+    tan_value=cmath.tan(radians)
+    height=43*tan_value
+    
+    print("The value of the height is:",height)
+    
+finding_height()
     
     
     
