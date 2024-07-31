@@ -1,5 +1,5 @@
 from colorama import *
-print(Fore.GREEN,Back.CYAN)
+print(Fore . GREEN, Back . CYAN)
 print(  "             *             ")
 print( "           *    *           " )
 print(  "         *       *           " )
